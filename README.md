@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pythonで学ぶ衛星データ解析基礎
 
 <a href="https://gihyo.jp/book/2022/978-4-297-13232-3"><img src="https://gihyo.jp/assets/images/cover/2022/thumb/TH320_9784297132323.jpg" title="book" width="150" border="0" /></a>
@@ -353,3 +354,7 @@ for root, folders, files in os.walk(s2folder):
 なお、本書で公開しているプログラムについては一切の許諾なしに自由に使用してかまいません。ただし、改変等する際にはご自身の責任の下で実行してください。
 商用利用する場合には適宜利用するデータのデータポリシー等をご確認ください。
 
+=======
+# satelliteBook
+Pythonで学ぶ衛星データ解析基礎
+>>>>>>> origin/master
